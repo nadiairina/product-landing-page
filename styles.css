@@ -28,7 +28,7 @@ body {
     position: fixed;
     width: 100%;
     top: 0;
-    background-color: var(--white);
+    background-color: var(--green);
     padding: 10px;
 }
 
@@ -41,6 +41,7 @@ body {
     text-decoration: none;
     color: var(--text);
     padding: 0 10px;
+    color: black;
 }
 
 .logo-container {
